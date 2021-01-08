@@ -4,6 +4,6 @@ title: Everyday Cairo
 ---
 
 WIP
-![Green entrance](https://github.com/Merham-Keleg/merham-keleg.github.io/blob/master/images/DSC_0371.JPG)
+[<img src="{{ site.baseurl }}/images/DSC_0371.JPG" alt="Green entrance" style="width: 400px;"/>]()
 
 **MK**
